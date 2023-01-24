@@ -1,9 +1,9 @@
-title: Swati Deshpande # your name (or website title) here
-logo: "/images/20220723_090409.jpg/" # your photo (or logo) here
+title: John Doe # your name (or website title) here
+logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  Data Analyst with a love of helping others and problem solving. 
-  My strong communication skills along with my 
-  technical skills in SQL, Excel and Tableau allow me to transform data into impactful insights that lead to the best business decisions. 
+  First description 
+  <br><br>
+  Second description 
   <br><br>
   <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
   
