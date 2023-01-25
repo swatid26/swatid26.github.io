@@ -4,7 +4,7 @@
 
 ### Projects
 
-[Healthcare analysis using Excel](/sample_page)
+[Healthcare analysis using Excel](/project_1)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
