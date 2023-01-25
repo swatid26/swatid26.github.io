@@ -1,6 +1,9 @@
 ## This can be your internal website page / project page
 
-**Project description:** Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+**Project description:** 
+THE DATA
+
+We’ve all had our experiences with healthcare. To improve experiences that occur in the hospital, we need to look back at the data. This particular dataset focuses on types of incoming patients, medications, procedures, length of stay and demographic features. It is a collection of 10 years (1999-2008) of clinical care that occurred between 130 hospitals within the United States. To take a deeper look at the data, please take a look here.
 
 ### 1. Suggest hypotheses about the causes of observed phenomena
 
