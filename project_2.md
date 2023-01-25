@@ -3,7 +3,7 @@
 **Project description:** 
 THE DATA
 
-We’ve all had our experiences with healthcare. To improve experiences that occur in the hospital, we need to look back at the data. This particular dataset focuses on types of incoming patients, medications, procedures, length of stay and demographic features. It is a collection of 10 years (1999-2008) of clinical care that occurred between 130 hospitals within the United States. To take a deeper look at the data, please take a look here.
+Pandemic trends in various counties in New York state are visualized using Tableau
 
 ### 1. Suggest hypotheses about the causes of observed phenomena
 
