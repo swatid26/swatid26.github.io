@@ -4,11 +4,11 @@
 
 ### Projects
 
-[**Healthcare analysis using Excel**](/project_1)
+[Healthcare analysis using Excel](/project_1)
 <img src="images/Picture1.jpg"/>
 
 ---
-[**Pandemic Trends using Tableau**](/project_2)
+[Pandemic Trends using Tableau](/project_2)
 <img src="images/pandemic1.png"/>
 
 ---
