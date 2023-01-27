@@ -33,11 +33,13 @@ Even in these 5 departments, Internal medicine department has the highest number
 
 <img src="images/Screenshot 2023-01-27 125946.png"/>
 
-### 3. Support the selection of appropriate statistical tools and techniques
+### 3. Which age groups need more number of medications?
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+The pivot table below clearly indicates that ag groups from 50 years to 70 years need most number of medications
 
-### 4. Provide a basis for further data collection through surveys or experiments
+<img src="images/Screenshot 2023-01-27 154334.png"/>
+
+### 4. Do lab procedures mean longer stays in the hospital?
 
 Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
 
