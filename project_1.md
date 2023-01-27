@@ -16,9 +16,10 @@ In this project, I am working to uncover following objectives:
 5-  When patients discharge, do they readmit to the hospital in under 30 days?
 
 
-### 1. Suggest hypotheses about the causes of observed phenomena
+### 1. Which department likely needs more lab facilities?
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
+Here I wanted to understand which departments perform the most number of lab procedures. Comparing it against the number of patients they get, we can 
+decide whether the patients reporting to the department can benefit from establishing more lab facilities.
 
 ```javascript
 if (isAwesome){
