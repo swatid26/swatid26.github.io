@@ -13,9 +13,6 @@ In this project, I am working to uncover following objectives:
 
 4-  Do lab procedures mean longer stays in the hospital?
 
-5-  When patients discharge, do they readmit to the hospital in under 30 days?
-
-
 ### 1. Which department likely needs more lab facilities?
 
 Here I wanted to understand which departments perform the most number of lab procedures. Comparing it against the number of patients they get, we can 
@@ -41,6 +38,8 @@ The pivot table below clearly indicates that ag groups from 50 years to 70 years
 
 ### 4. Do lab procedures mean longer stays in the hospital?
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
+Using two attributes of number of lab procedures and time in hospital we can clearly see that more lab procedures mean more time in hospital. Further this trend is consistent across all age groups.
+
+<img src="images/Screenshot 2023-01-27 155843.png"/>
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
