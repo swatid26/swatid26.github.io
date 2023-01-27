@@ -1,4 +1,4 @@
-## Healthcare Analytics using Excel and R
+## Healthcare Analysis using Excel
 
 **Project description:** 
 We’ve all had our experiences with healthcare. To improve experiences that occur in the hospital, we need to look back at the data. This particular dataset focuses on types of incoming patients, medications, procedures, length of stay and demographic features. It is a collection of 10 years (1999-2008) of clinical care that occurred between 130 hospitals within the United States. 
