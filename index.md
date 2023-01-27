@@ -8,7 +8,7 @@
 <img src="images/Screenshot 2023-01-26 063850.png"/>
 
 ---
-[Pandemic Trends using Tableau](/project_2)
+[Pandemic Trends visualization using Tableau](/project_2)
 <img src="images/Screenshot 2023-01-26 064422.png"/>
 
 ---
