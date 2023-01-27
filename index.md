@@ -9,7 +9,7 @@
 
 ---
 [Pandemic Trends using Tableau](/project_2)
-<img src="images/Picture2.jpg"/>
+<img src="images/Screenshot 2023-01-26 064422.png"/>
 
 ---
 [Project 3 Title](http://example.com/)
