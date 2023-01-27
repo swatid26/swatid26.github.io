@@ -31,7 +31,7 @@ facilities.
 Based on data the patients spend anywhere from 1 to 14 days in the hospital. Looking at the distribution of patients across the days, I noticed that around 60% patients admissions are concentrated between 4 to 9 days of hospitalization. So I filtered the number of patients being hospitalized between 4 to 9 days across all departments. After sorting, I found top 5 departments requiring most number of admitted patients between 4 to 9 days. So, these departments likely need more rooms to serve admitted patients.
 Even in these 5 departments, Internal medicine department has the highest number of admitted patients staying for 9 days, so it is best to focus on the internal medicine department first in terms of evaluating room facilities.
 
-<img src="images/Screenshot 2023-01-27 125946.png"/>
+<img src="images/Screenshot 2023-01-27 155732.png"/>
 
 ### 3. Which age groups need more number of medications?
 
