@@ -5,7 +5,7 @@
 ### Projects
 
 [Healthcare analysis using Excel](/project_1)
-<img src="images/Picture1.jpg"/>
+<img src="images/Screenshot 2023-01-26 063850.png"/>
 
 ---
 [Pandemic Trends using Tableau](/project_2)
