@@ -24,6 +24,7 @@ decide whether the patients reporting to the department can benefit from establi
 I used a pivot table and sorted the departments by the number of patients they handeled. Looking at the average number of lab procedures performed, most lab procedures are performed by internal medicine department which also handles the most number of patients. So, the internal medicine department may benefit from setting up more lab 
 facilities.
 
+<img src="images/Screenshot 2023-01-26 063850.png"/>
 
 ### 2. Assess assumptions on which statistical inference will be based
 
