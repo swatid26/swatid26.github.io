@@ -21,11 +21,9 @@ In this project, I am working to uncover following objectives:
 Here I wanted to understand which departments perform the most number of lab procedures. Comparing it against the number of patients they get, we can 
 decide whether the patients reporting to the department can benefit from establishing more lab facilities.
 
-```javascript
-if (isAwesome){
-  return true
-}
-```
+I used a pivot table and sorted the departments by the number of patients they handeled. Looking at the average number of lab procedures performed, most lab procedures are performed by internal medicine department which also handles the most number of patients. So, the internal medicine department may benefit from setting up more lab 
+facilities.
+
 
 ### 2. Assess assumptions on which statistical inference will be based
 
