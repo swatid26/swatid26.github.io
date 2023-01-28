@@ -32,7 +32,7 @@ Even in these 5 departments, Internal medicine department has the highest number
 
 ### 3. Which age groups need more number of medications?
 
-The pivot table below clearly indicates that ag groups from 50 years to 70 years need most number of medications
+The pivot table and the plot below clearly indicates that age groups from 50 years to 70 years need most number of medications
 
 <img src="images/Screenshot 2023-01-27 154334.png"/>
 
