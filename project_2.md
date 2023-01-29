@@ -1,34 +1,11 @@
-## This can be your internal website page / project page
+## Tableau Dashboard using Linkedin Data
 
 **Project description:** 
-THE DATA
 
-Pandemic trends in various counties in New York state are visualized using Tableau
+Here I used the data from my personal Linkedin account to create visualization about:
+1. Top company profiles I am connected with
+2. The connection chart plotted across weeks of connection
+3. Connections with count of first names
 
-### 1. Suggest hypotheses about the causes of observed phenomena
+Check out this link to my Tableau public dashboard
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
-
-```javascript
-if (isAwesome){
-  return true
-}
-```
-
-### 2. Assess assumptions on which statistical inference will be based
-
-```javascript
-if (isAwesome){
-  return true
-}
-```
-
-### 3. Support the selection of appropriate statistical tools and techniques
-
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
-### 4. Provide a basis for further data collection through surveys or experiments
-
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
