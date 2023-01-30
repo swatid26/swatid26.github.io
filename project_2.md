@@ -7,5 +7,5 @@ Here I used the data from my personal Linkedin account to create visualization a
 2. The connection chart plotted across weeks of connection
 3. Connections with count of first names
 
-Check out this link to my Tableau public dashboard
+swatid26.github.io/pdf/linkedin personal data 1.pdf
 
