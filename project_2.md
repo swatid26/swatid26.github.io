@@ -9,3 +9,4 @@ Here I used the data from my personal Linkedin account to create visualization a
 
 <img src="images/Screenshot 2023-01-30 131623.png"/>
 Link to the Tableau public https://public.tableau.com/views/TableauDashboardusingLinkedInData/Dashboard1?:language=en-GB&:display_count=n&:origin=viz_share_link
+[Link to the tableau public profile]([http://example.com](https://public.tableau.com/views/TableauDashboardusingLinkedInData/Dashboard1?:language=en-GB&:display_count=n&:origin=viz_share_link)/)
