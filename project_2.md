@@ -8,3 +8,4 @@ Here I used the data from my personal Linkedin account to create visualization a
 3. Connections with count of first names
 
 <img src="images/Screenshot 2023-01-30 131623.png"/>
+https://public.tableau.com/views/TableauDashboardusingLinkedInData/Dashboard1?:language=en-GB&:display_count=n&:origin=viz_share_link
