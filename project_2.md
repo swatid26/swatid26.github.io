@@ -7,4 +7,4 @@ Here I used the data from my personal Linkedin account to create visualization a
 2. The connection chart plotted across weeks of connection
 3. Connections with count of first names
 
-Screenshot 2023-01-30 131623.png
+<img src="images/Screenshot 2023-01-30 131623.png"/>
