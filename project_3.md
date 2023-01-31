@@ -10,6 +10,9 @@ The objectives for this analysis are below:
 2. How much sales was gathered by each size category pizza in the year 2015?
 3. How the sales were spread across various months of the year 2015? 
 
+The image below shows overall workflow created in Alteryx to achieve the desired results
+<img src="images/Screenshot 2023-01-31 170602.png"/>
+
 ### 1. Suggest hypotheses about the causes of observed phenomena
 
 Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
