@@ -1,9 +1,14 @@
-## This can be your internal website page / project page
+## Pizza sales analysis using Alteryx
 
 **Project description:** 
-THE DATA
+Here I am using data from Pizza sales company to analyze the trends in pizza orders received in the year 2015. 
+The data has information about types of pizza, their ingredients, prices, quantity ordered, time and date of order. The data is distributed in 4 different tables 
+for which I used Alteryx to cleanse, combine and summarize the data.
 
-We’ve all had our experiences with healthcare. To improve experiences that occur in the hospital, we need to look back at the data. This particular dataset focuses on types of incoming patients, medications, procedures, length of stay and demographic features. It is a collection of 10 years (1999-2008) of clinical care that occurred between 130 hospitals within the United States. To take a deeper look at the data, please take a look here.
+The objectives for this analysis are below:
+1. Which Sizes and category of pizza are most popular?
+2. How much sales was gathered by each size category pizza in the year 2015?
+3. How the sales were spread across various months of the year 2015? 
 
 ### 1. Suggest hypotheses about the causes of observed phenomena
 
