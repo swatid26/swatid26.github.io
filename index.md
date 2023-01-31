@@ -12,8 +12,8 @@
 <img src="images/Screenshot 2023-01-29 163410.png"/>
 
 ---
-[Pizza Orders analysis using Alteryx](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+#### [Pizza place sales analysis using Alteryx](/project_3)
+<img src="images/Screenshot 2023-01-31 111329.png"/>
 
 ---
 
