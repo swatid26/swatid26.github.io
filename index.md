@@ -21,7 +21,7 @@
 
 - [Healthcare Analysis using Excel](https://swatid26.github.io/project_1)
 - [Tableau dashboard using LinkedIn data](https://public.tableau.com/views/TableauDashboardusingLinkedInData/Dashboard1?:language=en-GB&:display_count=n&:origin=viz_share_link)
-- [Pizza place sales analysis using Alteryx](https://swatid26.github.io/project_3)
+- [Pizza place sales analysis using Alteryx](https://swatid26.github.io/project_3_
 ---
 
 
