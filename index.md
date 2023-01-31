@@ -12,22 +12,17 @@
 <img src="images/Screenshot 2023-01-29 163410.png"/>
 
 ---
-[Project 3 Title](http://example.com/)
+[Pizza Orders analysis using Alteryx](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
-### Category Name 2
+### Projects listed
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- [Healthcare Analysis using Excel]
+- [Tableau dashboard using LinkedIn data](https://public.tableau.com/views/TableauDashboardusingLinkedInData/Dashboard1?:language=en-GB&:display_count=n&:origin=viz_share_link)
 
 ---
-
-
 
 
 ---
