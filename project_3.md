@@ -1,6 +1,6 @@
-## Pizza sales analysis using Alteryx
+## Pizza place sales analysis using Alteryx
 
-**Project description:** 
+**Project Description:** 
 Here I am using data from Pizza sales company to analyze the trends in pizza orders received in the year 2015. 
 The data has information about types of pizza, their ingredients, prices, quantity ordered, time and date of order. The data is distributed in 4 different tables 
 for which I used Alteryx to cleanse, combine and summarize the data.
@@ -33,7 +33,7 @@ The data has dates formatted in MM-DD-YYYY format. Using formula function in Alt
 <img src="images/Screenshot 2023-02-01 094104.png"/>
 
 ### Insights
-
+Looking at the sales report based on various sizes of pizza, Large size pizzas are the most popular. Interrestingly, the trend does not seem to be because of price of the large pizzas (small and medium pizzas are cheaper than large pizzas)
 
 
 
