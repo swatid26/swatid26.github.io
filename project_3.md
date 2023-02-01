@@ -29,6 +29,7 @@ The master table created has information about sizes and maximum prices for each
 ### 3. How the sales were spread across various months of the year 2015?
 
 
+<img src="images/Screenshot 2023-02-01 094104.png"/>
 
 ### Interactive dashboard using excel
 
