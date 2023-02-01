@@ -19,6 +19,7 @@ The data is distributed in 4 different tables. To get this information I combine
 Order_id, pizza_id and pizza_type_id are common fields in 2 tables hence I used the join tool twice to get a master table which has information from all the 4 tables.
 
 <img src="images/Screenshot 2023-02-01 152550.png"/>
+<img src="images/Screenshot 2023-02-01 155235.png"/>
 
 ### 2. How much sales was gathered by each size category pizza in the year 2015?
 
