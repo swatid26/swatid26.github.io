@@ -18,7 +18,7 @@ The image below shows overall workflow created in Alteryx to achieve the desired
 The data is distributed in 4 different tables. To get this information I combined order details, orders, pizza types and pizza tables in Alteryx using join tool.
 Order_id, pizza_id and pizza_type_id are common fields in 2 tables hence I used the join tool twice to get a master table which has information from all the 4 tables.
 
-
+<img src="images/Screenshot 2023-02-01 111844.png"/>
 
 ### 2. How much sales was gathered by each size category pizza in the year 2015?
 
