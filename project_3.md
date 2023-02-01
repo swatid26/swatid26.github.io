@@ -16,19 +16,21 @@ The image below shows overall workflow created in Alteryx to achieve the desired
 ### 1. Which sizes and category of pizza are most popular?
 
 The data is distributed in 4 different tables. To get this information I combined order details, orders, pizza types and pizza tables in Alteryx using join tool.
-Order_id and pizza_id are common fields in 2 tables hence I used the join tool twice to get a master table which has information from all the 4 tables.
+Order_id, pizza_id and pizza_type_id are common fields in 2 tables hence I used the join tool twice to get a master table which has information from all the 4 tables.
 
 
 
 ### 2. How much sales was gathered by each size category pizza in the year 2015?
 
 
-### 3. Support the selection of appropriate statistical tools and techniques
+### 3. How the sales were spread across various months of the year 2015?
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
-### 4. Provide a basis for further data collection through surveys or experiments
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
+### Interactive dashboard using excel
+
+The data cleaning, manipulation and extraction was done in Alteryx to extract the data in the form of an excel sheet. Further the visualization capabilities of excel are used to create an interactive dashboard which summarizes observations mentioned above.
+
+
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
