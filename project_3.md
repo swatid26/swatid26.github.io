@@ -22,7 +22,7 @@ Order_id, pizza_id and pizza_type_id are common fields in 2 tables hence I used 
 
 ### 2. How much sales was gathered by each size category pizza in the year 2015?
 
-The master table created has information about sizes and maximum prices for each size of pizza. I filtered the data to show the sizes,prices and quantities ordered, Then Total sales gathered was calculated by creating a formula in Alteryx, multiplying quantities by prices. The data is then sorted in descending order of sales revenue. 
+The master table created has information about sizes and maximum prices for each size of pizza. I filtered the data to show the sizes, category, prices and quantities ordered, Then Total sales gathered was calculated by creating a formula in Alteryx, multiplying quantities by prices. The data is then sorted in ascending order of sales revenue. 
 
 <img src="images/Screenshot 2023-02-01 150410.png"/>
 <img src="images/Screenshot 2023-02-01 150440.png"/>
@@ -34,9 +34,10 @@ The data has dates formatted in MM-DD-YYYY format. Using formula function in Alt
 <img src="images/Screenshot 2023-02-01 094104.png"/>
 
 ### Insights
-Looking at the sales report based on various sizes of pizza, Large size pizzas are the most popular. Interrestingly, the trend does not seem to be because of price of the large pizzas (small and medium pizzas are cheaper than large pizzas)
-
-
+1. Looking at the sales report based on various sizes of pizza, Large size pizzas are the most popular. Interrestingly, the trend does not seem to be because of price of the large pizzas (small and medium pizzas are cheaper than large pizzas). 
+2. XXL pizzas are least popular with only handful of orders in the entire year.
+3. Large size pizzas in chicken category are the most popular which fetched maximum orders in the entire year to generate maximum sales.
+4.  
 
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
