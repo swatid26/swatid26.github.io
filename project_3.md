@@ -22,6 +22,7 @@ Order_id, pizza_id and pizza_type_id are common fields in 2 tables hence I used 
 
 ### 2. How much sales was gathered by each size category pizza in the year 2015?
 
+The master table created has information about sizes and maximum prices for each size of pizza. I filtered the data to show the sizes,prices and quantities ordered, Then Total sales gathered was calculated by creating a formula in Alteryx, multiplying quantities by prices. The data is then sorted in descending order of sales revenue. 
 
 ### 3. How the sales were spread across various months of the year 2015?
 
