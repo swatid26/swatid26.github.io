@@ -28,12 +28,13 @@ The master table created has information about sizes and maximum prices for each
 
 ### 3. How the sales were spread across various months of the year 2015?
 
+The data has dates formatted in MM-DD-YYYY format. Using formula function in Alteryx, month number is extracted from the date. To understand the sales spread in more intuitive way, another table is created in Alteryx using Text Input command which contains information about month number and month name. Using join tool, and sorting the sales information in descending order, desired output is obtained.
 
 <img src="images/Screenshot 2023-02-01 094104.png"/>
 
-### Interactive dashboard using excel
+### Insights
 
-The data cleaning, manipulation and extraction was done in Alteryx to extract the data in the form of an excel sheet. Further the visualization capabilities of excel are used to create an interactive dashboard which summarizes observations mentioned above.
+
 
 
 
