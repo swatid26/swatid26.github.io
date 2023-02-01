@@ -13,23 +13,15 @@ The objectives for this analysis are below:
 The image below shows overall workflow created in Alteryx to achieve the desired results
 <img src="images/Screenshot 2023-01-31 170602.png"/>
 
-### 1. Suggest hypotheses about the causes of observed phenomena
+### 1. Which sizes and category of pizza are most popular?
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
+The data is distributed in 4 different tables. To get this information I combined order details, orders, pizza types and pizza tables in Alteryx using join tool.
+Order_id and pizza_id are common fields in 2 tables hence I used the join tool twice to get a master table which has information from all the 4 tables.
 
-```javascript
-if (isAwesome){
-  return true
-}
-```
 
-### 2. Assess assumptions on which statistical inference will be based
 
-```javascript
-if (isAwesome){
-  return true
-}
-```
+### 2. How much sales was gathered by each size category pizza in the year 2015?
+
 
 ### 3. Support the selection of appropriate statistical tools and techniques
 
