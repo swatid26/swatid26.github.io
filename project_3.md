@@ -44,6 +44,7 @@ The data has dates formatted in MM-DD-YYYY format. Using formula function in Alt
 
 <img src="images/Screenshot 2023-02-02 133715.png"/>
 <img src="images/Screenshot 2023-02-02 133823.png"/>
+<img src="images/Screenshot 2023-02-02 134201.png"/>
 
 ### 4. Understand customer purchase behaviour: What is average order value on various days in a month?
 
