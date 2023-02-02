@@ -38,6 +38,8 @@ The data has dates formatted in MM-DD-YYYY format. Using formula function in Alt
 
 <img src="images/Screenshot 2023-02-01 094104.png"/>
 
+<img src="images/Screenshot 2023-02-02 133823.png"/>
+
 ### 3. Improve Productivity: How the orders were distributed across months, days and time during the year?
 
 <img src="images/Screenshot 2023-02-02 133715.png"/>
