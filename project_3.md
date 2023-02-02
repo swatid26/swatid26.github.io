@@ -41,8 +41,9 @@ The data has dates formatted in MM-DD-YYYY format. Using formula function in Alt
 <img src="images/Screenshot 2023-02-02 133823.png"/>
 
 ### 3. Improve Productivity: How the orders were distributed across months, days and time during the year?
-
+Extracting data about monthly orders, we can see that October month shows the least number of pizza quantities with highest in July. month of July shows 13% increase in pizza sales compared to October.
 <img src="images/Screenshot 2023-02-02 133715.png"/>
+
 <img src="images/Screenshot 2023-02-02 133823.png"/>
 <img src="images/Screenshot 2023-02-02 134201.png"/>
 
