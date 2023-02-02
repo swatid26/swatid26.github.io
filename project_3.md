@@ -49,6 +49,7 @@ The data has dates formatted in MM-DD-YYYY format. Using formula function in Alt
 ### 4. Understand customer purchase behaviour: What is average order value on various days in a month?
 
 <img src="images/Screenshot 2023-02-02 142838.png"/>
+<img src="images/Screenshot 2023-02-02 142856.png"/>
 
 ### Insights
 1. Looking at the sales report based on various sizes of pizza, Large size pizzas are the most popular. Interrestingly, the trend does not seem to be because of price of the large pizzas (small and medium pizzas are cheaper than large pizzas). 
