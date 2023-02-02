@@ -14,7 +14,7 @@ The objectives for this analysis are below:
 4. Understand customer purchase behaviour: What is average order value on various days in a month?
 
 The image below shows overall workflow created in Alteryx to achieve the desired results
-<img src="images/Screenshot 2023-01-31 170602.png"/>
+<img src="images/Screenshot 2023-02-02 150023.png"/>
 
 ### 1. Best and worst selling pizzas: Which sizes and category of pizza are most popular?
 
