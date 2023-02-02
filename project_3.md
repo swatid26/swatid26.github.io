@@ -10,8 +10,8 @@ The objectives for this analysis are below:
 2. Increase Revenue: 
    A: How much sales was gathered by each size category pizza in the year 2015?
    B: How the sales were spread across various months of the year 2015?
-3. Improve Productivity: How the orders were distributed across days and time during day?
-4. Understand customer purchase behaviour: What is average order value on various days in the month?
+3. Improve Productivity: How the orders were distributed across months, days and time during the year?
+4. Understand customer purchase behaviour: What is average order value on various days in a month?
 
 The image below shows overall workflow created in Alteryx to achieve the desired results
 <img src="images/Screenshot 2023-01-31 170602.png"/>
