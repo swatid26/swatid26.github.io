@@ -40,7 +40,7 @@ The data has dates formatted in MM-DD-YYYY format. Using formula function in Alt
 
 ### 3. Improve Productivity: How the orders were distributed across months, days and time during the year?
 
-
+<img src="images/Screenshot 2023-02-02 133715.png"/>
 
 ### 4. Understand customer purchase behaviour: What is average order value on various days in a month?
 
