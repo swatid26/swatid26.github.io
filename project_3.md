@@ -69,3 +69,4 @@ We can easily see that customers are spending around $16-17 per order.
 5. To efficiently manage resources, the pizza place can allocate more resources in the month of October and in general around middle of the months. Meal times (Lunch and dinner) are the busiest, so it is best to consider stock, seating capacity and resources to be prepared to serve more customers during these times. The pizza place can also manage influx of orders concentrated around meal times by setting up pre-orders, takeout or drive through options to efficiently distribute resources.
 6. Customers are willing to pay around $16-17 each time they place the order. We can compare it with the major competition to understand if our prices are competitive to attract and retain the customers.
 
+Data Source https://www.kaggle.com/datasets/mysarahmadbhat/pizza-place-sales
