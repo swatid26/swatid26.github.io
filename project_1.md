@@ -41,3 +41,5 @@ The pivot table and the plot below clearly indicates that age groups from 50 yea
 Using two attributes of number of lab procedures and time in hospital we can clearly see that more lab procedures mean more time in hospital. Further this trend is consistent across all age groups.
 
 <img src="images/Screenshot 2023-01-27 155843.png"/>
+
+Data Source: https://www.kaggle.com/code/iabhishekofficial/prediction-on-hospital-readmission/notebook#Prediction-on-Diabetes-Patient's-Hospital-Readmission
