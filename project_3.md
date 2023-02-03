@@ -27,7 +27,7 @@ Order_id, pizza_id and pizza_type_id are common fields in 2 tables hence I used 
 ### 2. Increase revenue: 
 A:How much sales was gathered by each size category pizza in the year 2015?
 
-The master table created has information about sizes and maximum prices for each size of pizza. I filtered the data to show the sizes, category, prices and quantities ordered, Then Total sales gathered was calculated by creating a formula in Alteryx, multiplying quantities by prices. The data is then sorted in ascending order of sales revenue. We can see L size pizza in chicken category is gathering the most revenue.
+The master table created has information about sizes and maximum prices for each size of pizza. I filtered the data to show the sizes, category, prices and quantities ordered, Then Total sales gathered was calculated by creating a formula in Alteryx, multiplying quantities by prices. The data is then sorted in descending order of sales revenue. We can see L size pizza in chicken category is gathering the most revenue.
 
 <img src="images/Screenshot 2023-02-03 103924.png"/>
 <img src="images/Screenshot 2023-02-03 104004.png"/>
