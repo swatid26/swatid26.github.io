@@ -63,9 +63,9 @@ We can easily see that customers are spending around $16-17 per order.
 
 ### Insights
 1. Looking at the sales report based on various sizes of pizza, Large size pizzas are the most popular. Interrestingly, the trend does not seem to be because of price of the large pizzas (small and medium pizzas are cheaper than large pizzas). 
-2. XXL pizzas are least popular with only handful of orders in the entire year.
+2. XXL pizzas are least popular with only handful of orders in the entire year with minimal revenue generated. So, the pizza place can evaluate if they want to hold off producing XXL size pizzas and allocate those respources to producing more L size pizzas.
 3. Large size pizzas in chicken category are the single most popular which fetched maximum orders in the entire year to generate maximum sales, when they are priced at $20.75 per pizza
 4. Also, it is interesting to note that small size pizzas in classic category are ahead in number of total orders. However when we look at the breakdown of small size classic pizzas by price, classic small sized pizzas priced at $12 per pizza are the most popular
+5. To efficiently manage resources, the pizza place can allocate more resources in the month of October and in general around middle of the months. Meal times (Lunch and dinner) are the busiest, so it is best to consider stock, seating capacity and resources to be prepared to serve more customers during these times. The pizza place can also manage influx of orders concentrated around meal times by setting up pre-orders, takeout or drive through options to efficiently distribute resources.
+6. Customers are willing to pay around $16-17 each time they place the order. We can compare it with the major competition to understand if our prices are competitive to attract and retain the customers.
 
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
