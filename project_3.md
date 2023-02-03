@@ -43,12 +43,14 @@ The data has dates formatted in MM-DD-YYYY format. Using formula function in Alt
 ### 3. Improve Productivity: How the orders were distributed across months, days and time during the year?
 Extracting data about monthly orders, we can see that October month shows the least number of pizza quantities with highest in July. month of July shows 13% increase in pizza sales compared to October.
 <img src="images/Screenshot 2023-02-02 133715.png"/>
-
+Looking at the distribution among days in a month, we can see most orders come in middle of the month, with least at the end of the month.
+<img src="images/Screenshot 2023-02-02 175458.png"/>
+Data below clearly shows most orders are concentrated around meal times (lunch hours from 12 pm to 1 pm) and dinner hours from 4 pm to 7 pm.
 <img src="images/Screenshot 2023-02-02 133823.png"/>
-<img src="images/Screenshot 2023-02-02 134201.png"/>
 
 ### 4. Understand customer purchase behaviour: What is average order value on various days in a month?
-
+While each pizza category has different prices, we can calculate AOV (Average Order Value) which represents on average how much the customer is willing to spend each time they place an order at the pizza place. 
+We can easily see that customers are spending around $16-17 per order.
 <img src="images/Screenshot 2023-02-02 142838.png"/>
 <img src="images/Screenshot 2023-02-02 142856.png"/>
 
