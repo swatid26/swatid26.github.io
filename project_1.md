@@ -42,4 +42,5 @@ Using two attributes of number of lab procedures and time in hospital we can cle
 
 <img src="images/Screenshot 2023-01-27 155843.png"/>
 
-Data Source: https://www.kaggle.com/code/iabhishekofficial/prediction-on-hospital-readmission/notebook#Prediction-on-Diabetes-Patient's-Hospital-Readmission
+[Data Source](https://www.kaggle.com/code/iabhishekofficial/prediction-on-hospital-readmission/notebook#Prediction-on-Diabetes-Patient's-Hospital-Readmission/).
+ 
