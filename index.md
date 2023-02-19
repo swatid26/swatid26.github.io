@@ -17,7 +17,7 @@
 
 ---
 #### [Ecommerce Sales Analysis dynamic dashboard in Excel](/project_4)
-<img src="images/Screenshot 2023-01-31 111329.png"/>
+<img src="images/Screenshot 2023-02-19 134334.png"/>
 
 
 ### Projects listed
