@@ -16,6 +16,10 @@
 <img src="images/Screenshot 2023-01-31 111329.png"/>
 
 ---
+#### [Tableau Dashboard using Analytics jobs data](https://public.tableau.com/app/profile/swati.d5531/viz/Analyticsdashboard_16769295820400/Dashboard1)
+<img src="images/Screenshot 2023-01-31 111329.png"/>
+
+---
 #### [Ecommerce Sales Analysis dynamic dashboard in Excel](https://youtu.be/sBxam-2ELgE)
 <img src="images/Screenshot 2023-02-19 134334.png"/>
 
