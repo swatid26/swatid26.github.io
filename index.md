@@ -23,6 +23,9 @@
 #### [Ecommerce Sales Analysis dynamic dashboard in Excel](https://youtu.be/sBxam-2ELgE)
 <img src="images/Screenshot 2023-02-19 134334.png"/>
 
+---
+#### [PowerBI Dashboard using Analytics jobs data]
+<img src="images/Screenshot 2023-02-20 155524.png"/>
 
 ### Projects listed
 
