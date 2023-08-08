@@ -24,7 +24,7 @@
 <img src="images/Screenshot 2023-02-19 134334.png"/>
 
 ---
-#### [PowerBI Dashboard using Analytics jobs data]
+#### [PowerBI Dashboard using Analytics jobs data](https://medium.com/@deshpandeswati198/powerbi-dashboard-using-analytics-job-data-6e731f86c25f)
 <img src="images/Screenshot 2023-04-05 150259.png"/>
 
 ### Projects listed
