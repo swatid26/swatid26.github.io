@@ -4,7 +4,7 @@
 
 ### Projects
 
-#### [Healthcare analysis using Excel](/project_1)
+#### [Healthcare analysis using Excel](https://medium.com/@deshpandeswati198/healthcare-analysis-using-excel-816597125f1b)
 <img src="images/Screenshot 2023-01-26 063850.png"/>
 
 ---
