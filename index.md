@@ -12,7 +12,7 @@
 <img src="images/Screenshot 2023-01-29 163410.png"/>
 
 ---
-#### [Pizza place sales analysis using Alteryx](/project_3)
+#### [Pizza place sales analysis using Alteryx](https://medium.com/@deshpandeswati198/project-description-here-i-am-using-data-from-pizza-sales-company-to-analyze-the-trends-in-pizza-a35204138908)
 <img src="images/Screenshot 2023-01-31 111329.png"/>
 
 ---
