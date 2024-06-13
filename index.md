@@ -33,7 +33,7 @@
 
 ---
 #### [Sales Dashboard in Power BI]([https://medium.com/@deshpandeswati198/sales-dashboard-in-power-bi-d779c8c781d9))
-<img src="images/Screenshot 2023-02-19 134334.png"/>
+<images/Screenshot 2024-06-13 140728.png"/>
 
 ### Projects listed
 
