@@ -27,6 +27,14 @@
 #### [PowerBI Dashboard using Analytics jobs data](https://medium.com/@deshpandeswati198/powerbi-dashboard-using-analytics-job-data-6e731f86c25f)
 <img src="images/Screenshot 2023-04-05 150259.png"/>
 
+---
+#### [Organizational Health Dashboard in Power BI]([https://youtu.be/sBxam-2ELgE](https://medium.com/@deshpandeswati198/organization-health-dashboard-in-powerbi-676ef479db66))
+<img src="images/Screenshot 2023-02-19 134334.png"/>
+
+---
+#### [Sales Dashboard in Power BI]([https://medium.com/@deshpandeswati198/sales-dashboard-in-power-bi-d779c8c781d9))
+<img src="images/Screenshot 2023-02-19 134334.png"/>
+
 ### Projects listed
 
 - [Healthcare Analysis using Excel](https://swatid26.github.io/project_1)
