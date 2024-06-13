@@ -28,7 +28,7 @@
 <img src="images/Screenshot 2023-04-05 150259.png"/>
 
 ---
-#### [Organizational Health Dashboard in Power BI](https://youtu.be/sBxam-2ELgE](https://medium.com/@deshpandeswati198/organization-health-dashboard-in-powerbi-676ef479db66))
+#### [Organizational Health Dashboard in Power BI](https://medium.com/@deshpandeswati198/organization-health-dashboard-in-powerbi-676ef479db66)
 <img src="images/Screenshot 2024-06-05 130654.png"/>
 
 ---
