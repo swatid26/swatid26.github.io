@@ -29,7 +29,7 @@
 
 ---
 #### [Organizational Health Dashboard in Power BI]([https://youtu.be/sBxam-2ELgE](https://medium.com/@deshpandeswati198/organization-health-dashboard-in-powerbi-676ef479db66))
-<img src="images/Screenshot 2023-02-19 134334.png"/>
+<img src="images/Screenshot 2024-06-05 130654.png"/>
 
 ---
 #### [Sales Dashboard in Power BI]([https://medium.com/@deshpandeswati198/sales-dashboard-in-power-bi-d779c8c781d9))
