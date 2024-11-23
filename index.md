@@ -33,8 +33,8 @@
 <img src="images/Screenshot 2024-06-13 140728.png"/>
 
 ---
-#### [Manufacturing Defects Prediction in Python](https://medium.com/@deshpandeswati198/sales-dashboard-in-power-bi-d779c8c781d9)
-<img src="images/Screenshot 2024-06-13 140728.png"/>
+#### [Manufacturing Defects Prediction in Python](https://medium.com/@deshpandeswati198/manufacturing-efects-prediction-using-python-cd87a6c451f4)
+<img src="images/Screenshot 2024-11-23 112427.png"/>
 
 ---
 #### [Healthcare analysis using Excel](https://medium.com/@deshpandeswati198/healthcare-analysis-using-excel-816597125f1b)
