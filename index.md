@@ -8,7 +8,7 @@
 - [PowerBI Dashboard using Analytics jobs data](https://medium.com/@deshpandeswati198/powerbi-dashboard-using-analytics-job-data-6e731f86c25f)
 - [Oraganizational Health Dashboard in Power BI](https://medium.com/@deshpandeswati198/organization-health-dashboard-in-powerbi-676ef479db66)
 - [Sales Dashboard in Power BI](https://medium.com/@deshpandeswati198/sales-dashboard-in-power-bi-d779c8c781d9)
-- [Manufacturing Defects Prediction in Python](https://medium.com/@deshpandeswati198/manufacturing-efects-prediction-using-python-cd87a6c451f)
+- [Manufacturing Defects Prediction in Python](https://medium.com/@deshpandeswati198/manufacturing-efects-prediction-using-python-cd87a6c451f4)
 - [Healthcare Analysis using Excel](https://swatid26.github.io/project_1)
 - [Tableau dashboard using LinkedIn data](https://public.tableau.com/views/TableauDashboardusingLinkedInData/Dashboard1?:language=en-GB&:display_count=n&:origin=viz_share_link)
 
